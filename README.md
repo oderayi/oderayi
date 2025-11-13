@@ -1,12 +1,19 @@
 # 🚀 Steven Oderayi
 
-**Senior Software Engineer & FinTech Systems Specialist** | **@infitx-org** | Lagos, Nigeria 🇳🇬
+**Senior Software Engineer & FinTech Systems Specialist** | **6+ Years Experience** | **@infitx-org** | Lagos, Nigeria 🇳🇬  
+📧 oderayi@gmail.com | 📱 +234 703 589 2718 | 🔗 [LinkedIn](https://www.linkedin.com/in/oderayi)
 
 ---
 
 ## 👋 About Me
 
-I'm a passionate software engineer with a focus on **financial technology systems** and **distributed systems**. Currently contributing to cutting-edge fintech solutions at **Infitx**, where I help build scalable payment systems and developer tools that power financial inclusion across Africa.
+**Reliable and detail-oriented engineer** with **6+ years of experience** building maintainable, efficient, performant, testable and scalable systems. Currently leading development of the **COMESA Digital Retail Payments Platform (DRPP)** - a groundbreaking cross-border payment system serving **21 African countries** that launched in October 2025.
+
+**Key Achievements:**
+- 🏦 **Led engineering teams** across multiple fintech and aviation companies
+- 🌍 **Built payment infrastructure** serving millions across Africa
+- 💰 **Reduced cross-border payment costs** through innovative Mojaloop implementations
+- ✈️ **Powered airport operations** with backend systems at major international airports
 
 ## 🔥 What I Do
 
@@ -16,43 +23,99 @@ I'm a passionate software engineer with a focus on **financial technology system
 - **🌐 Full-Stack Development**: TypeScript/JavaScript, Python, Go, Rust - from frontend to backend to blockchain
 - **🔗 System Integration**: Mojaloop payment networks, cross-platform solutions, and API development
 
+## 💼 Professional Experience
+
+### 🏦 **Senior Software Engineer** | **Infitx, USA** | *2023 - Present*
+Leading development of **COMESA DRPP** - the Digital Retail Payments Platform enabling cross-border payments across 21 African countries. This platform cuts costs, reduces USD dependency, and empowers SMEs, women, and youth in regional trade.
+- **Tech Stack**: Node.js, TypeScript, Kubernetes, Docker, Helm, Hapi.js, MySQL, Redis, Kafka, Grafana/Prometheus
+
+### ✈️ **Senior Node.js Developer** | **i6 Group, UK** | *2022 - 2023*
+Led backend engineering team designing Node.js platforms powering **airport and airline operations** for cutting-edge aviation solutions.
+- **Tech Stack**: Node.js, TypeScript, NestJS, MongoDB, Docker, GCP, Azure Functions
+
+### 🌐 **Senior Software Engineer** | **ModusBox, USA** | *2019 - 2022*
+Core contributor to **Mojaloop** - the world's first open-source platform for real-time payment interoperability. Backed by Gates Foundation, Google, Ripple, and other major organizations.
+- **Tech Stack**: Node.js, TypeScript, Kubernetes, Docker, React.js, MySQL, Redis, Kafka
+
+### 🏛️ **Lead Software Engineer** | **Primera MF Bank, Nigeria** | *2018 - 2019*
+Led engineering team in **banking digitization**, integrated with top-tier Nigerian payment systems (Remita, Flutterwave, Interswitch), and developed Core Banking System integrations.
+- **Tech Stack**: Node.js, TypeScript, Java, Angular, AWS (Full Suite)
+
+### 🏢 **Team Lead, Software Engineering** | **AB Microfinance Bank** | *2015 - 2018*
+Designed and implemented enterprise platforms including myABstream™, myABspot™, myABcloud™ that streamlined business processes and increased revenue.
+- **Tech Stack**: PHP, JavaScript, Node.js, SQL Server, MySQL, Java, Android
+
 ## 🛠️ Notable Projects
 
-### 💳 **Payment Systems & FinTech**
-- **COMESA Regional Payment Platform**: Infrastructure for cross-border payments across East Africa
-- **Mojaloop E2E Testing Suite**: Comprehensive testing tools for digital payment ecosystems
-- **Payment Manager Infrastructure**: Cloud-native containerized payment processing platform with automated scaling and high availability
+### 💳 **Enterprise FinTech Systems**
+- **COMESA DRPP**: Cross-border payment platform for 21 African countries (2023-Present)
+- **Mojaloop Core Platform**: World's first open-source real-time payment interoperability system
+- **Banking Digitization Suite**: Complete digital transformation for Nigerian microfinance institutions
+- **Payment Gateway Integrations**: Remita, Flutterwave, Interswitch, and Core Banking System (T24)
 
-### 📈 **Financial Trading Tools**
-- **Solomon Trading Suite**: Complete MT4 ecosystem with custom indicators, profiles, and automation tools
+### ✈️ **Aviation & Enterprise Solutions**
+- **Airport Operations Platform**: Backend systems powering international airport operations
+- **School Management Systems**: Proskool™ and ProskoolMobile™ for educational institutions
+- **Content Management Systems**: Samsung LFD digital boards deployed across West African banks
+
+### 🚀 **Side Projects & Innovation**
+- **Solomon Trading System**: Fully automated trading platform with MQL4 and Python
+- **GidiTrip**: Uber-like bus ride sharing platform (Node.js, TypeScript, NativeScript)
+- **TinyHouse**: AirBnB-like application (Node.js, TypeScript, React, GraphQL)
+- **Facial Recognition Payment System**: Deep Learning project using Python and TypeScript
 
 ### 🐰 **AgriTech & Hobby Projects**
-- **Rabbitix Platform**: Full-stack rabbitry management application and marketplace with TypeScript backend and Angular frontend
+- **Rabbitix Platform**: Full-stack rabbitry management application and marketplace
 
 ### 🔧 **Open Source Contributions**
 - **Mojaloop Core Contributor**: Long-standing contributor since 2019, helping to automate the end-to-end release process for the open-source digital payments platform, amongst other contributions
+- **PM4ML (Payment Manager for Mojaloop)**: Contributor to enterprise payment gateway solutions including the Payment Manager Management API
+- **CryptoBase**: Cryptocurrency data aggregation library
 
 ## 🎯 Core Expertise
 
 ```typescript
 const skills = {
-  languages: ["TypeScript", "JavaScript", "Python", "PHP", "Go", "Rust", "MQL4"],
-  cloud: ["AWS", "Terraform", "Docker", "Kubernetes"],
-  fintech: ["Mojaloop", "Payment Systems", "Cross-border Transactions"],
-  frameworks: ["React", "Angular", "Node.js", "NestJS", "Express", "Flutter"],
-  databases: ["PostgreSQL", "MySQL", "MongoDB"],
-  tools: ["Git", "CI/CD", "Infrastructure as Code"]
+  languages: ["TypeScript", "JavaScript", "Python", "Java", "PHP", "C#", "Rust", "MQL4"],
+  cloud: ["AWS", "GCP", "Azure", "Kubernetes", "Docker", "Terraform", "Helm", "Rancher"],
+  fintech: ["Mojaloop", "Payment Systems", "Cross-border Transactions", "Core Banking", "T24"],
+  frameworks: ["Node.js", "NestJS", "Express", "Hapi.js", "Koa.js", "React", "Angular", "ASP.NET"],
+  databases: ["MySQL", "MongoDB", "SQL Server", "Oracle", "Redis", "PostgreSQL"],
+  tools: ["Git/GitHub/GitLab", "CircleCI", "Kafka", "Grafana/Prometheus", "EFK Stack"],
+  mobile: ["Android Studio", "NativeScript", "Electron"],
+  specialties: ["Team Leadership", "System Architecture", "Banking Digitization", "Aviation Systems"]
 };
 ```
 
+## 🎓 Education & Certifications
+
+### 📚 **Formal Education**
+- **BSc Computer Science** | Caleb University (2018-2020)
+- **MSc Computer Science** | Ladoke Akintola University of Technology (2013-2014) 
+- **HND Computer Science** | Lagos State Polytechnic (2006-2009)
+- **ND Computer Science** | Lagos State Polytechnic (2002-2004)
+
+### 🏆 **Professional Certifications**
+- **Machine Learning & Deep Learning Specialization** | Coursera - Andrew Ng (2018)
+- **Mobile Web Specialist** | Udacity & Google Africa Challenge Scholarship (2018)
+- **Introduction to Artificial Intelligence** | EdX - UC Berkeley (2016)
+- **Microsoft Certified Technology Specialist** | Microsoft (2008)
+- **Java 6 Certification** | Oracle (2014)
+- **IT Security Fundamentals Certificate** (2014)
+
+### 🏛️ **Professional Memberships**
+- **Professional Member** | Association for Computing Machinery (ACM), USA
+- **Professional Member** | IEEE & IEEE Computer Society, USA
+
 ## 🌍 Impact & Vision
 
-Building the future of **financial inclusion** in Africa through robust, scalable technology solutions. I believe in leveraging open-source technologies and modern development practices to create systems that can serve millions while maintaining reliability and security.
+With **6+ years of experience** building enterprise systems across **FinTech, Aviation, and Banking**, I'm passionate about creating technology that drives **financial inclusion** across Africa. From leading teams that digitized entire banks to building cross-border payment systems serving 21 countries, I leverage open-source technologies and modern development practices to create systems that serve millions while maintaining reliability and security.
 
 ---
 
-📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/oderayi) 
-💼 **Currently**: Building next-gen payment infrastructure at **@infitx-org**
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/oderayi) | [GitHub](https://github.com/oderayi)  
+💼 **Currently**: Leading **COMESA DRPP** development - revolutionizing cross-border payments across 21 African countries  
+🏆 **Experience**: 6+ years leading engineering teams across FinTech, Banking, and Aviation industries
 
 ---
 
