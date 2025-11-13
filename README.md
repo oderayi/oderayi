@@ -1,18 +1,17 @@
 # 🚀 Steven Oderayi
 
-**Senior Software Engineer & FinTech Systems Specialist** | **6+ Years Experience** | **@infitx-org** | Lagos, Nigeria 🇳🇬  
-📧 oderayi@gmail.com | 📱 +234 703 589 2718 | 🔗 [LinkedIn](https://www.linkedin.com/in/oderayi)
+**Senior Software Engineer & FinTech Systems Specialist** | **@infitx-org** | Lagos, Nigeria 🇳🇬  
+📧 oderayi@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/oderayi)
 
 ---
 
 ## 👋 About Me
 
-**Reliable and detail-oriented engineer** with **6+ years of experience** building maintainable, efficient, performant, testable and scalable systems. Currently leading development of the **COMESA Digital Retail Payments Platform (DRPP)** - a groundbreaking cross-border payment system serving **21 African countries** that launched in October 2025.
+**Reliable and detail-oriented engineer** with **6+ years of experience** building maintainable, efficient, performant, testable and scalable systems. Currently contributing to the development of the **COMESA Digital Retail Payments Platform (DRPP)** - a groundbreaking cross-border payment system serving **21 African countries** that launched in October 2025.
 
 **Key Achievements:**
 - 🏦 **Led engineering teams** across multiple fintech and aviation companies
-- 🌍 **Built payment infrastructure** serving millions across Africa
-- 💰 **Reduced cross-border payment costs** through innovative Mojaloop implementations
+- 🌍 **Core contributor to payment infrastructure** serving millions across Africa
 - ✈️ **Powered airport operations** with backend systems at major international airports
 
 ## 🔥 What I Do
@@ -22,28 +21,6 @@
 - **📊 Trading Systems**: Developed comprehensive MT4 trading tools including indicators, templates, and automated systems
 - **🌐 Full-Stack Development**: TypeScript/JavaScript, Python, Go, Rust - from frontend to backend to blockchain
 - **🔗 System Integration**: Mojaloop payment networks, cross-platform solutions, and API development
-
-## 💼 Professional Experience
-
-### 🏦 **Senior Software Engineer** | **Infitx, USA** | *2023 - Present*
-Leading development of **COMESA DRPP** - the Digital Retail Payments Platform enabling cross-border payments across 21 African countries. This platform cuts costs, reduces USD dependency, and empowers SMEs, women, and youth in regional trade.
-- **Tech Stack**: Node.js, TypeScript, Kubernetes, Docker, Helm, Hapi.js, MySQL, Redis, Kafka, Grafana/Prometheus
-
-### ✈️ **Senior Node.js Developer** | **i6 Group, UK** | *2022 - 2023*
-Led backend engineering team designing Node.js platforms powering **airport and airline operations** for cutting-edge aviation solutions.
-- **Tech Stack**: Node.js, TypeScript, NestJS, MongoDB, Docker, GCP, Azure Functions
-
-### 🌐 **Senior Software Engineer** | **ModusBox, USA** | *2019 - 2022*
-Core contributor to **Mojaloop** - the world's first open-source platform for real-time payment interoperability. Backed by Gates Foundation, Google, Ripple, and other major organizations.
-- **Tech Stack**: Node.js, TypeScript, Kubernetes, Docker, React.js, MySQL, Redis, Kafka
-
-### 🏛️ **Lead Software Engineer** | **Primera MF Bank, Nigeria** | *2018 - 2019*
-Led engineering team in **banking digitization**, integrated with top-tier Nigerian payment systems (Remita, Flutterwave, Interswitch), and developed Core Banking System integrations.
-- **Tech Stack**: Node.js, TypeScript, Java, Angular, AWS (Full Suite)
-
-### 🏢 **Team Lead, Software Engineering** | **AB Microfinance Bank** | *2015 - 2018*
-Designed and implemented enterprise platforms including myABstream™, myABspot™, myABcloud™ that streamlined business processes and increased revenue.
-- **Tech Stack**: PHP, JavaScript, Node.js, SQL Server, MySQL, Java, Android
 
 ## 🛠️ Notable Projects
 
@@ -68,8 +45,8 @@ Designed and implemented enterprise platforms including myABstream™, myABspot�
 - **Rabbitix Platform**: Full-stack rabbitry management application and marketplace
 
 ### 🔧 **Open Source Contributions**
-- **Mojaloop Core Contributor**: Long-standing contributor since 2019, helping to automate the end-to-end release process for the open-source digital payments platform, amongst other contributions
-- **PM4ML (Payment Manager for Mojaloop)**: Contributor to enterprise payment gateway solutions including the Payment Manager Management API
+- **Mojaloop Core Contributor**: Long-standing contributor since 2019
+- **PM4ML (Payment Manager for Mojaloop)**: Contributor to enterprise payment management solutions including the Mojaloop Payment Manager
 - **CryptoBase**: Cryptocurrency data aggregation library
 
 ## 🎯 Core Expertise
@@ -91,7 +68,7 @@ const skills = {
 
 ### 📚 **Formal Education**
 - **BSc Computer Science** | Caleb University (2018-2020)
-- **MSc Computer Science** | Ladoke Akintola University of Technology (2013-2014) 
+- **MIT Computer Science** | Ladoke Akintola University of Technology (2013-2014) 
 - **HND Computer Science** | Lagos State Polytechnic (2006-2009)
 - **ND Computer Science** | Lagos State Polytechnic (2002-2004)
 
@@ -113,8 +90,8 @@ With **6+ years of experience** building enterprise systems across **FinTech, Av
 
 ---
 
-📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/oderayi) | [GitHub](https://github.com/oderayi)  
-💼 **Currently**: Leading **COMESA DRPP** development - revolutionizing cross-border payments across 21 African countries  
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/oderayi)  
+💼 **Currently**: Contributing to **COMESA DRPP** development - revolutionizing cross-border payments across 21 African countries  
 🏆 **Experience**: 6+ years leading engineering teams across FinTech, Banking, and Aviation industries
 
 ---
