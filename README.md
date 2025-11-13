@@ -6,10 +6,10 @@
 
 ## 👋 About Me
 
-**Reliable and detail-oriented engineer** with **6+ years of experience** building maintainable, efficient, performant, testable and scalable systems. Currently contributing to the development of the **COMESA Digital Retail Payments Platform (DRPP)** - a groundbreaking cross-border payment system serving **21 African countries** that launched in October 2025.
+**Senior Software Engineer** with **6+ years of experience** building scalable FinTech systems. Currently contributing to the **COMESA Digital Retail Payments Platform (DRPP)** - a cross-border payment system serving **21 African countries**.
 
 **Key Achievements:**
-- 🏦 **Led engineering teams** across multiple fintech and aviation companies
+- 🏦 **Led engineering teams** across fintech and aviation companies
 - 🌍 **Core contributor to payment infrastructure** serving millions across Africa
 - ✈️ **Powered airport operations** with backend systems at major international airports
 
