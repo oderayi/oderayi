@@ -85,7 +85,7 @@ const skills = {
 
 ## 🌍 Impact & Vision
 
-With **6+ years of experience** building enterprise systems across **FinTech, Aviation, and Banking**, I'm passionate about creating technology that drives **financial inclusion** across Africa. From leading teams that digitized entire banks to building cross-border payment systems serving 21 countries, I leverage open-source technologies and modern development practices to create systems that serve millions while maintaining reliability and security.
+With **6+ years of experience** building enterprise systems across **FinTech, Aviation, and Banking**, I'm passionate about creating technology that drives **financial inclusion** across Africa. From leading teams that digitized entire banks to contributing to building cross-border payment systems serving 21 countries, I leverage open-source technologies and modern development practices to create systems that serve millions while maintaining reliability and security.
 
 ---
 
