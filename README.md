@@ -52,13 +52,14 @@
 
 ```typescript
 const skills = {
-  languages: ["TypeScript", "JavaScript", "Python", "Java", "PHP", "C#", "Rust", "MQL4"],
+  languages: ["TypeScript", "JavaScript", "Python", "Java", "PHP", "C#", "MQL4"],
   cloud: ["AWS", "GCP", "Azure", "Kubernetes", "Docker", "Terraform", "Helm", "Rancher"],
   fintech: ["Mojaloop", "Payment Systems", "Cross-border Transactions", "Core Banking", "T24"],
   frameworks: ["Node.js", "NestJS", "Express", "Hapi.js", "Koa.js", "React", "Angular", "ASP.NET"],
   databases: ["MySQL", "MongoDB", "SQL Server", "Oracle", "Redis", "PostgreSQL"],
   tools: ["Git/GitHub/GitLab", "CircleCI", "Kafka", "Grafana/Prometheus", "EFK Stack"],
-  mobile: ["Android Studio", "NativeScript", "Electron"],
+  mobile: ["Android", "NativeScript", "Flutter"],
+  desktop: ["Electron"]
   specialties: ["Team Leadership", "System Architecture", "Banking Digitization", "Aviation Systems"]
 };
 ```
