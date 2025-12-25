@@ -17,7 +17,7 @@
 
 - **🏦 FinTech Infrastructure**: Building robust payment systems, cross-border transaction solutions, and financial inclusion platforms
 - **☁️ Cloud & DevOps**: Expertise in AWS, Infrastructure as Code (Terraform), and containerized deployments  
-- **📊 Trading Systems**: Developed comprehensive MT4 trading tools including indicators, templates, and automated systems
+- **📊 Trading Systems**: Developed comprehensive MT4 trading tools including indicators, templates, and automated systems (expert advisors)
 - **🌐 Full-Stack Development**: TypeScript/JavaScript, Python, Go, Rust - from frontend to backend to blockchain
 - **🔗 System Integration**: Mojaloop payment networks, cross-platform solutions, and API development
 
