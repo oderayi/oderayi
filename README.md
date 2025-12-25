@@ -41,7 +41,7 @@
 - **Facial Recognition Payment System**: Deep Learning project using Python and TypeScript
 
 ### 🐰 **AgriTech & Hobby Projects**
-- **Rabbitix Platform**: Full-stack rabbitry management application and marketplace (Node.js, Angular, TypeScript)
+- **Rabbitix Platform [rabbitix.com]**: Full-stack rabbitry management application and marketplace (Node.js, Angular, TypeScript)
 
 ### 🔧 **Open Source Contributions**
 - **Mojaloop Core Contributor**: Long-standing contributor since 2019
