@@ -1,6 +1,6 @@
 # 🚀 Steven Oderayi
 
-**Senior Software Engineer & FinTech Systems Specialist** | **@infitx-org** | Lagos, Nigeria 🇳🇬  
+**Senior Software Engineer & FinTech Systems Specialist** | **@infitx-org** 
 
 ---
 
