@@ -68,9 +68,6 @@ const skills = {
 
 ### 📚 **Formal Education**
 - **BSc Computer Science** | Caleb University (2018-2020)
-- **MIT Computer Science** | Ladoke Akintola University of Technology (2013-2014) 
-- **HND Computer Science** | Lagos State Polytechnic (2006-2009)
-- **ND Computer Science** | Lagos State Polytechnic (2002-2004)
 
 ### 🏆 **Professional Certifications**
 - **Machine Learning & Deep Learning Specialization** | Coursera - Andrew Ng (2018)
