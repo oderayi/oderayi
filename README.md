@@ -15,11 +15,11 @@
 
 ## What I Do
 
-- ** FinTech Infrastructure**: Building robust payment systems, cross-border transaction solutions, and financial inclusion platforms
-- ** Cloud & DevOps**: Expertise in AWS, Infrastructure as Code (Terraform), and containerized deployments  
-- ** Trading Systems**: Developed comprehensive MT4 trading tools including indicators, templates, and automated systems (expert advisors)
-- ** Full-Stack Development**: TypeScript/JavaScript, Python, Go, Rust - from frontend to backend to blockchain
-- ** System Integration**: Mojaloop payment networks, cross-platform solutions, and API development
+- **FinTech Infrastructure**: Building robust payment systems, cross-border transaction solutions, and financial inclusion platforms
+- **Cloud & DevOps**: Expertise in AWS, Infrastructure as Code (Terraform), and containerized deployments  
+- **Trading Systems**: Developed comprehensive MT4 trading tools including indicators, templates, and automated systems (expert advisors)
+- **Full-Stack Development**: TypeScript/JavaScript, Python, Go, Rust - from frontend to backend to blockchain
+- **System Integration**: Mojaloop payment networks, cross-platform solutions, and API development
 
 ## Notable Projects
 
@@ -83,13 +83,13 @@ const skills = {
 
 ## Impact & Vision
 
-With **6+ years of experience** building enterprise systems across **FinTech, Aviation, and Banking**, I'm passionate about creating technology that drives **financial inclusion** across Africa. From leading teams that digitized entire banks to contributing to building cross-border payment systems serving 21 countries, I leverage open-source technologies and modern development practices to create systems that serve millions while maintaining reliability and security.
+With **10+ years of experience** building enterprise systems across **FinTech, Aviation, and Banking**, I'm passionate about creating technology that drives **financial inclusion** across Africa. From leading teams that digitized entire banks to contributing to building cross-border payment systems serving 21 countries, I leverage open-source technologies and modern development practices to create systems that serve millions while maintaining reliability and security.
 
 ---
 
 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/oderayi)  
 **Currently**: Contributing to **COMESA DRPP** development - revolutionizing cross-border payments across 21 African countries  
-**Experience**: 6+ years leading engineering teams across FinTech, Banking, and Aviation industries
+**Experience**: 10+ years leading engineering teams across FinTech, Banking, and Aviation industries
 
 ---
 
